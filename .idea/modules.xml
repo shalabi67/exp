@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/fileservice-api.iml" filepath="$PROJECT_DIR$/api/fileservice-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/fileservice-client.iml" filepath="$PROJECT_DIR$/client/fileservice-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage/fileservice-demo-project.iml" filepath="$PROJECT_DIR$/storage/fileservice-demo-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileservice-parent.iml" filepath="$PROJECT_DIR$/fileservice-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/fileservice-server.iml" filepath="$PROJECT_DIR$/server/fileservice-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage.iml" filepath="$PROJECT_DIR$/storage.iml" />
+    </modules>
+  </component>
+</project>
